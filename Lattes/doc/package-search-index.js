@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"Lattes","l":"entidades"},{"m":"Lattes","l":"interfaces"},{"m":"Lattes","l":"objetos"}];updateSearchResults();
